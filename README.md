@@ -1,10 +1,14 @@
-# Cyclistic Bike Share: Casual Riders vs Annual Riders 
+# DATA ANALYSIS ON HOTELS AND RESORTS
 
 
 
 ## Introduction
 
-This analysis examines three years of performance data from five hotels to evaluate overall progress, identify key trends, and extract actionable insights. Based on the findings, the marketing department aimed to provide additional support and advertising to the lowest-performing hotel to boost its sales.
+As a data analyst in the hospitality industry, I was tasked with analyzing three years of 
+performance data from five different hotels. The objective was to assess their overall progress, 
+identify trends, and provide a clear summary of key insights.The marketing department has 
+decided to provide additional support and advertisement to the hotel that has the lowest 
+performance in order to further boost the hotel’s sales.  
 
 
 ## Tools Used
